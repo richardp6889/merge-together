@@ -1,6 +1,6 @@
 # merge-together
-My
+Our 
 name
 is
-nice
+awesome
 
